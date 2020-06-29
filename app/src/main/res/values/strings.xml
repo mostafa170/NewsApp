@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">newsapi</string>
+    <string name="srt_list_empty">List Empty</string>
+
+</resources>
